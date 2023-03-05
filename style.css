@@ -73,6 +73,7 @@ li {
   font-family: var(--primary-font);
   font-weight: 400;
   font-size: 1rem;
+  text-align: center;
   display: flex;
   justify-content: space-between;
   align-items: center;
